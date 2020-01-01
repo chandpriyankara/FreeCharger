@@ -1,0 +1,2 @@
+node --check index.js
+
